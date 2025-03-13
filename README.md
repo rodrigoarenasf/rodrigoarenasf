@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi everyone my name is Rodrigo Arenas 👋
+🔭 I am currently working as a freelance developer in companies in the agricultural, food distribution and production sectors.
 
 <!--
 **rodrigoarenasf/rodrigoarenasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
