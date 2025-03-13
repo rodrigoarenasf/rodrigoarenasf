@@ -1,4 +1,4 @@
-## Hi everyone my name is Rodrigo Arenas 👋
+## Hi everyone !! , my name is Rodrigo Arenas 👋
 🔭 I am currently working as a freelance developer in companies in the agricultural, food distribution and production sectors.
 
 <!--
